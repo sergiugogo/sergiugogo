@@ -10,6 +10,7 @@ I enjoy building projects at the intersection of **artificial intelligence** and
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+
 **Also familiar with:**
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
