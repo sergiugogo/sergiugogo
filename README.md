@@ -20,7 +20,7 @@ I enjoy building projects at the intersection of **artificial intelligence** and
 
 ### 🛡️ Projects I’m proud of
 
-My favorite projects so far are **AIPishing Guard** and **LinkChecker** — both are focused on tackling real security problems like phishing and unsafe links.
+My favorite projects so far are **AIPishing Guard** and **Malicious_links_checker** — both are focused on tackling real security problems like phishing and unsafe links.
 
 I currently have **25 repositories**, both private and public and I’m always looking for new real-life problems I can solve through my projects.
 
