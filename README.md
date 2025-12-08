@@ -6,17 +6,8 @@ I enjoy building projects at the intersection of **artificial intelligence** and
 
 ### 🔧 Tech stack
 
-**Main:**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-
-**Also familiar with:**
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+**Main:** Python, SQL, Java  
+**Also familiar with:** C++, JavaScript, React, Docker, Linux
 
 ### 🛡️ Projects I’m proud of
 
