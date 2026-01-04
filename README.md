@@ -9,6 +9,12 @@ I enjoy building projects at the intersection of **artificial intelligence** and
 **Main:** Python, SQL, Java  
 **Also familiar with:** C++, JavaScript, React, Docker, Linux
 
+### 📜 Certifications
+
+[![Google Cybersecurity Professional Certificate](google-cybersecurity-professional-certificate-v-2.png)](https://www.credly.com/go/8231Q2YF)
+
+* **Google Cybersecurity Professional Certificate (v.2)** - Issued Jan 2026
+
 ### 🛡️ Projects I’m proud of
 
 My favorite projects so far are **AIPishing Guard** and **Malicious_links_checker** — both are focused on tackling real security problems like phishing and unsafe links.
