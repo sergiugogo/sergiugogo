@@ -23,6 +23,6 @@ I currently have **25 repositories**, both private and public and I’m always l
 
 ### 📜 Certifications
 
-[![Google Cybersecurity Professional Certificate](google-cybersecurity-professional-certificate-v-2.png)](https://www.credly.com/go/8231Q2YF)
+[![Google Cybersecurity Professional Certificate](google-cybersecurity-professional-certificate-v-2-git.png)](https://www.credly.com/go/8231Q2YF)
 
 * **Google Cybersecurity Professional Certificate (v.2)** - Issued Jan 2026
