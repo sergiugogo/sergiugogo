@@ -1,55 +1,70 @@
-# Hi there 👋
+<div align="center">
 
-I'm **Sergiu**, a second-year Artificial Intelligence student at **UBB Cluj-Napoca** 🇷🇴
+<!-- Animated typing header -->
+<a href="https://sergiu-mogosan.site/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Sergiu+%F0%9F%91%8B;AI+%2B+Cybersecurity+student+%40+UBB+Cluj;Building+agentic+LLM+pipelines+%F0%9F%A4%96;F1+fan+who+codes+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" />
+</a>
 
-I build at the intersection of **Artificial Intelligence** and **Cybersecurity** — most of my
-projects start from a real-world problem and try to solve it with ML / LLM systems.
+![Profile views](https://komarev.com/ghpvc/?username=sergiugogo&color=7aa2f7&style=flat&label=Profile+views)
 
-- 🔭 Currently working on **agentic AI & LLM pipelines** and security-focused side projects
-- 🌱 Learning **Rust** and Windows internals (for my disk-analyzer project)
-- 🤝 Open to **internships & freelance work** around applied ML and AI automation
-- 🏎️ Big Formula 1 fan — and yes, I prefer tea over coffee
+</div>
+
+---
+
+I'm a second-year **Artificial Intelligence** student at **UBB Cluj-Napoca** 🇷🇴, building at the
+intersection of **AI** and **cybersecurity** — most of my projects start from a real-world problem
+and try to solve it with ML / LLM systems.
+
+```python
+class Sergiu:
+    def __init__(self):
+        self.role        = "AI Student @ UBB Cluj"
+        self.focus       = ["Agentic AI", "LLM pipelines", "AI security"]
+        self.learning    = ["Rust", "Windows internals"]
+        self.open_to     = ["Internships", "Freelance / AI automation"]
+        self.fun_fact    = "Big F1 fan — and I run on tea, not coffee ☕❌"
+```
 
 ---
 
 ### 🛠️ Tech stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**AI / ML**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-blueviolet?style=flat)
-![LLMs](https://img.shields.io/badge/LLMs-purple?style=flat)
-
-**Tools & infra**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+</div>
 
 ---
 
 ### 🚀 Featured projects
 
-- **[AIPhishing Guard]((https://github.com/sergiugogo/ISM-AIPhishingGuard))** — ML-based phishing
-  detection that flags malicious emails / pages from real-world signals.
-- **[Malicious Links Checker]((https://github.com/sergiugogo/Malicious_links_checker))** — tool that
-  analyzes URLs and warns about unsafe links before you click them.
-- **[Multilingual RAG Assistant]([https://github.com/sergiugogo](https://github.com/sergiugogo/ISM-RAG))** — retrieval-augmented assistant
-  that answers across languages using a vector DB + LLM pipeline.
+<div align="center">
 
-*Always looking for new real-life problems I can solve through my projects.*
+<a href="[https://github.com/sergiugogo/AIPhishing-Guard](https://github.com/sergiugogo/ISM-AIPhishingGuard)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiugogo&repo=AIPhishing-Guard&theme=tokyonight&hide_border=true" />
+</a>
+<a href="[https://github.com/sergiugogo/Malicious_links_checker](https://github.com/sergiugogo/Malicious_links_checker)">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiugogo&repo=Malicious_links_checker&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+- 🛡️ **AIPhishing Guard** — ML-based phishing detection that flags malicious emails / pages from real-world signals
+- 🔗 **Malicious Links Checker** — analyzes URLs and warns about unsafe links before you click
+- 🌍 **Multilingual RAG Assistant** — retrieval-augmented assistant answering across languages (vector DB + LLM pipeline)
 
 ---
 
@@ -57,11 +72,24 @@ projects start from a real-world problem and try to solve it with ML / LLM syste
 
 <div align="center">
 
-![Sergiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiugogo&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sergiugogo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiugogo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiugogo&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiugogo&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sergiugogo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sergiugogo&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
+
+---
+
+### 🏎️ Fun facts
+
+- 🏁 Big **Formula 1** fan and into SimRacing
+- 🍵 I don't drink coffee — tea person all the way
+- 🧱 Off-screen: gaming and building LEGO
 
 ---
 
@@ -73,6 +101,10 @@ projects start from a real-world problem and try to solve it with ML / LLM syste
 
 ### 📫 Where to find me
 
-[![Website](https://img.shields.io/badge/Website-sergiu--mogosan.site-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://sergiu-mogosan.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sergiu--mogosan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiu-mogosan-4042211a1/)
-[![Credly](https://img.shields.io/badge/Credly-certifications-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/sergiu-ionut-mogosan)
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-sergiu--mogosan.site-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sergiu-mogosan.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sergiu--mogosan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiu-mogosan-4042211a1/)
+[![Credly](https://img.shields.io/badge/Credly-certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/sergiu-ionut-mogosan)
+
+</div>
