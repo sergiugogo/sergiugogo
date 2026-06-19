@@ -42,8 +42,6 @@ projects start from a real-world problem and try to solve it with ML / LLM syste
 
 ### 🚀 Featured projects
 
-> ⚠️ *Verifică și înlocuiește link-urile de mai jos cu numele real al repo-urilor tale.*
-
 - **[AIPhishing Guard]((https://github.com/sergiugogo/ISM-AIPhishingGuard))** — ML-based phishing
   detection that flags malicious emails / pages from real-world signals.
 - **[Malicious Links Checker]((https://github.com/sergiugogo/Malicious_links_checker))** — tool that
