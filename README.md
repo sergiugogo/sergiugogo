@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://sergiu-mogosan.site/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Sergiu+%F0%9F%91%8B;AI+%2B+Cybersecurity+student+%40+UBB+Cluj;Building+agentic+LLM+pipelines+%F0%9F%A4%96;F1+fan+who+codes+%F0%9F%8F%8E%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Sergiu;AI+%2B+Cybersecurity+student+%40+UBB+Cluj;Building+agentic+LLM+pipelines;F1+fan+who+codes" alt="Typing SVG" />
 </a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=sergiugogo&color=7aa2f7&style=flat&label=Profile+views)
@@ -11,9 +11,9 @@
 
 ---
 
-I'm a second-year **Artificial Intelligence** student at **UBB Cluj-Napoca** 🇷🇴, building at the
-intersection of **AI** and **cybersecurity** — most of my projects start from a real-world problem
-and try to solve it with ML / LLM systems.
+I'm a second-year **Artificial Intelligence** student at **UBB Cluj-Napoca**, building at the
+intersection of **AI** and **cybersecurity**. Most of my projects start from a real-world problem
+and I try to solve it with ML / LLM systems.
 
 ```python
 class Sergiu:
@@ -22,12 +22,12 @@ class Sergiu:
         self.focus       = ["Agentic AI", "LLM pipelines", "AI security"]
         self.learning    = ["Rust", "Windows internals"]
         self.open_to     = ["Internships", "Freelance / AI automation"]
-        self.fun_fact    = "Big F1 fan — and I run on tea, not coffee ☕❌"
+        self.fun_fact    = "Big F1 fan who runs on tea, not coffee"
 ```
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 <div align="center">
 
@@ -49,26 +49,28 @@ class Sergiu:
 
 ---
 
-### 🚀 Featured projects
+### Featured projects
+
+> Replace `repo=` with the exact names of your repos so the cards render.
 
 <div align="center">
 
-<a href="[https://github.com/sergiugogo/AIPhishing-Guard](https://github.com/sergiugogo/ISM-AIPhishingGuard)">
+<a href="https://github.com/sergiugogo/ISM-AIPhishingGuard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiugogo&repo=AIPhishing-Guard&theme=tokyonight&hide_border=true" />
 </a>
-<a href="[https://github.com/sergiugogo/Malicious_links_checker](https://github.com/sergiugogo/Malicious_links_checker)">
+<a href="https://github.com/sergiugogo/Malicious_links_checker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiugogo&repo=Malicious_links_checker&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-- 🛡️ **AIPhishing Guard** — ML-based phishing detection that flags malicious emails / pages from real-world signals
-- 🔗 **Malicious Links Checker** — analyzes URLs and warns about unsafe links before you click
-- 🌍 **Multilingual RAG Assistant** — retrieval-augmented assistant answering across languages (vector DB + LLM pipeline)
+- **AIPhishing Guard**: ML-based phishing detection that flags malicious emails and pages from real-world signals
+- **Malicious Links Checker**: analyzes URLs and warns about unsafe links before you click
+- **Multilingual RAG Assistant**: a retrieval-augmented assistant that answers across languages (vector DB + LLM pipeline)
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
 
@@ -85,21 +87,21 @@ class Sergiu:
 
 ---
 
-### 🏎️ Fun facts
+### Fun facts
 
-- 🏁 Big **Formula 1** fan and into SimRacing
-- 🍵 I don't drink coffee — tea person all the way
-- 🧱 Off-screen: gaming and building LEGO
-
----
-
-### 📜 Certifications
-
-- **Google Cybersecurity Professional Certificate (v.2)** — Issued Jan 2026
+- Big **Formula 1** fan and into SimRacing
+- I don't drink coffee, I'm a tea person all the way
+- Off-screen: gaming and building LEGO
 
 ---
 
-### 📫 Where to find me
+### Certifications
+
+- **Google Cybersecurity Professional Certificate (v.2)**, issued Jan 2026
+
+---
+
+### Where to find me
 
 <div align="center">
 
