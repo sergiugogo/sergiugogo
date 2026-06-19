@@ -56,7 +56,7 @@ class Sergiu:
 <div align="center">
 
 <a href="https://github.com/sergiugogo/ISM-AIPhishingGuard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiugogo&repo=AIPhishing-Guard&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiugogo&repo=ISM-AIPhishingGuard&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/sergiugogo/Malicious_links_checker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiugogo&repo=Malicious_links_checker&theme=tokyonight&hide_border=true" />
