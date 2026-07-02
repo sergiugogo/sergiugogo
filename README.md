@@ -51,8 +51,6 @@ class Sergiu:
 
 ### Featured projects
 
-> Replace `repo=` with the exact names of your repos so the cards render.
-
 <div align="center">
 
 <a href="https://github.com/sergiugogo/ISM-AIPhishingGuard">
