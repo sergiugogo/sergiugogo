@@ -65,12 +65,12 @@ class Sergiu:
 
 <div align="center">
 
-<a href="https://github.com/sergiugogo/ISM-AIPhishingGuard">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=ISM-AIPhishingGuard&theme=tokyonight&hide_border=true"
+<a href="https://github.com/sergiugogo/MogosStat">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=MogosStat&theme=tokyonight&hide_border=true"
        alt="ISM-AIPhishingGuard repository card" width="400" height="130" />
 </a>
-<a href="https://github.com/sergiugogo/Malicious_links_checker">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=Malicious_links_checker&theme=tokyonight&hide_border=true"
+<a href="https://github.com/sergiugogo/dataformater">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=dataformater&theme=tokyonight&hide_border=true"
        alt="Malicious_links_checker repository card" width="400" height="130" />
 </a>
 
