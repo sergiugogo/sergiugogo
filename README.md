@@ -56,22 +56,27 @@ class Sergiu:
 ### Featured projects
 
 <!--
-  IMPORTANT: replace YOUR-GRS-DEPLOY below with your own github-readme-stats
-  deployment (fork anuraghazra/github-readme-stats -> deploy to Vercel -> add a
-  PAT_1 env var holding a fine-grained GitHub token). The shared public instance
-  at github-readme-stats.vercel.app is rate-limited and returns broken images.
-  There are 4 occurrences: 2 pin cards, 1 stats card, 1 top-langs card.
+  Cards are served by github-stats-extended.vercel.app — the actively maintained
+  successor to anuraghazra/github-readme-stats, whose public instance was
+  permanently rate-limited. Same parameters, different domain.
+  Repo:   https://github.com/stats-organization/github-stats-extended
+  Wizard: https://github-stats-extended.vercel.app/frontend
 -->
 
 <div align="center">
 
 <a href="https://github.com/sergiugogo/ISM-AIPhishingGuard">
-  <img src="https://YOUR-GRS-DEPLOY.vercel.app/api/pin/?username=sergiugogo&repo=ISM-AIPhishingGuard&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=ISM-AIPhishingGuard&theme=tokyonight&hide_border=true"
        alt="ISM-AIPhishingGuard repository card" width="400" height="130" />
 </a>
 <a href="https://github.com/sergiugogo/Malicious_links_checker">
-  <img src="https://YOUR-GRS-DEPLOY.vercel.app/api/pin/?username=sergiugogo&repo=Malicious_links_checker&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=Malicious_links_checker&theme=tokyonight&hide_border=true"
        alt="Malicious_links_checker repository card" width="400" height="130" />
+</a>
+
+<a href="https://github.com/GhiMarc/Emergent">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=GhiMarc/Emergent&show_owner=true&show=prs_authored,prs_commented,prs_reviewed&theme=tokyonight&hide_border=true"
+       alt="My contributions to GhiMarc/Emergent" width="400" />
 </a>
 
 </div>
@@ -79,6 +84,7 @@ class Sergiu:
 - **[AIPhishing Guard](https://github.com/sergiugogo/ISM-AIPhishingGuard)**: ML-based phishing detection that flags malicious emails and pages from real-world signals
 - **[Malicious Links Checker](https://github.com/sergiugogo/Malicious_links_checker)**: analyzes URLs and warns about unsafe links before you click
 - **[Multilingual RAG Assistant](https://github.com/sergiugogo/ISM-RAG)**: a retrieval-augmented assistant that answers across languages (vector DB + LLM pipeline)
+- **[MogosStat](https://github.com/sergiugogo/MogosStat)**: statistics tooling written in Rust
 
 ---
 
@@ -87,18 +93,15 @@ class Sergiu:
 <div align="center">
 
 <img height="165"
-     src="https://YOUR-GRS-DEPLOY.vercel.app/api?username=sergiugogo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"
+     src="https://github-stats-extended.vercel.app/api?username=sergiugogo&show_icons=true&theme=tokyonight&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&cache_seconds=86400"
      alt="Sergiu's GitHub stats" />
 <img height="165"
-     src="https://YOUR-GRS-DEPLOY.vercel.app/api/top-langs/?username=sergiugogo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=2"
+     src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiugogo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=86400"
      alt="Most used languages" />
 
 <img height="165"
-     src="https://streak-stats.demolab.com?user=sergiugogo&theme=tokyonight&hide_border=true&v=2"
+     src="https://streak-stats.demolab.com?user=sergiugogo&theme=tokyonight&hide_border=true"
      alt="GitHub streak stats" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=sergiugogo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&v=2"
-     alt="GitHub trophies" width="700" height="120" />
 
 <img width="95%"
      src="https://github-readme-activity-graph.vercel.app/graph?username=sergiugogo&theme=tokyo-night&hide_border=true&area=true"
