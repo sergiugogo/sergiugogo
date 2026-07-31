@@ -2,10 +2,14 @@
 
 <!-- Animated typing header -->
 <a href="https://sergiu-mogosan.site/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Sergiu;AI+%2B+Cybersecurity+student+%40+UBB+Cluj;Building+agentic+LLM+pipelines;F1+fan+who+codes" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&height=45&lines=Hi+there%2C+I%27m+Sergiu;AI+%2B+Cybersecurity+student+%40+UBB+Cluj;Building+agentic+LLM+pipelines;F1+fan+who+codes"
+    alt="Hi there, I'm Sergiu — AI + Cybersecurity student @ UBB Cluj"
+    width="620" height="45" />
 </a>
 
-![Profile views](https://komarev.com/ghpvc/?username=sergiugogo&color=7aa2f7&style=flat&label=Profile+views)
+<img src="https://komarev.com/ghpvc/?username=sergiugogo&color=7aa2f7&style=flat&label=Profile+views"
+     alt="Profile views" height="20" />
 
 </div>
 
@@ -51,31 +55,55 @@ class Sergiu:
 
 ### Featured projects
 
+<!--
+  IMPORTANT: replace YOUR-GRS-DEPLOY below with your own github-readme-stats
+  deployment (fork anuraghazra/github-readme-stats -> deploy to Vercel -> add a
+  PAT_1 env var holding a fine-grained GitHub token). The shared public instance
+  at github-readme-stats.vercel.app is rate-limited and returns broken images.
+  There are 4 occurrences: 2 pin cards, 1 stats card, 1 top-langs card.
+-->
+
 <div align="center">
 
 <a href="https://github.com/sergiugogo/ISM-AIPhishingGuard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiugogo&repo=ISM-AIPhishingGuard&theme=tokyonight&hide_border=true" />
+  <img src="https://YOUR-GRS-DEPLOY.vercel.app/api/pin/?username=sergiugogo&repo=ISM-AIPhishingGuard&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"
+       alt="ISM-AIPhishingGuard repository card" width="400" height="130" />
 </a>
 <a href="https://github.com/sergiugogo/Malicious_links_checker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergiugogo&repo=Malicious_links_checker&theme=tokyonight&hide_border=true" />
+  <img src="https://YOUR-GRS-DEPLOY.vercel.app/api/pin/?username=sergiugogo&repo=Malicious_links_checker&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"
+       alt="Malicious_links_checker repository card" width="400" height="130" />
 </a>
 
 </div>
 
-- **AIPhishing Guard**: ML-based phishing detection that flags malicious emails and pages from real-world signals
-- **Malicious Links Checker**: analyzes URLs and warns about unsafe links before you click
-- **Multilingual RAG Assistant**: a retrieval-augmented assistant that answers across languages (vector DB + LLM pipeline)
+- **[AIPhishing Guard](https://github.com/sergiugogo/ISM-AIPhishingGuard)**: ML-based phishing detection that flags malicious emails and pages from real-world signals
+- **[Malicious Links Checker](https://github.com/sergiugogo/Malicious_links_checker)**: analyzes URLs and warns about unsafe links before you click
+- **[Multilingual RAG Assistant](https://github.com/sergiugogo/ISM-RAG)**: a retrieval-augmented assistant that answers across languages (vector DB + LLM pipeline)
 
 ---
 
 ### GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sergiugogo&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiugogo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiugogo&theme=tokyonight&hide_border=true" />
-<img src="https://github-profile-trophy.vercel.app/?username=sergiugogo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sergiugogo&theme=tokyo-night&hide_border=true&area=true" />
+
+<img height="165"
+     src="https://YOUR-GRS-DEPLOY.vercel.app/api?username=sergiugogo&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2"
+     alt="Sergiu's GitHub stats" />
+<img height="165"
+     src="https://YOUR-GRS-DEPLOY.vercel.app/api/top-langs/?username=sergiugogo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=2"
+     alt="Most used languages" />
+
+<img height="165"
+     src="https://streak-stats.demolab.com?user=sergiugogo&theme=tokyonight&hide_border=true&v=2"
+     alt="GitHub streak stats" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sergiugogo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&v=2"
+     alt="GitHub trophies" width="700" height="120" />
+
+<img width="95%"
+     src="https://github-readme-activity-graph.vercel.app/graph?username=sergiugogo&theme=tokyo-night&hide_border=true&area=true"
+     alt="Contribution activity graph" />
+
 </div>
 
 ---
