@@ -65,26 +65,21 @@ class Sergiu:
 
 <div align="center">
 
-<a href="https://github.com/sergiugogo/MogosStat">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=MogosStat&theme=tokyonight&hide_border=true"
+<a href="https://github.com/sergiugogo/ISM-AIPhishingGuard">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=ISM-AIPhishingGuard&theme=tokyonight&hide_border=true"
        alt="ISM-AIPhishingGuard repository card" width="400" height="130" />
 </a>
-<a href="https://github.com/sergiugogo/dataformater">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=dataformater&theme=tokyonight&hide_border=true"
+<a href="https://github.com/sergiugogo/Malicious_links_checker">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=Malicious_links_checker&theme=tokyonight&hide_border=true"
        alt="Malicious_links_checker repository card" width="400" height="130" />
 </a>
-
-<a href="https://github.com/GhiMarc/Emergent">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=sergiugogo&repo=GhiMarc/Emergent&show_owner=true&show=prs_authored,prs_commented,prs_reviewed&theme=tokyonight&hide_border=true"
-       alt="My contributions to GhiMarc/Emergent" width="400" />
-</a>
-
 </div>
 
 - **[AIPhishing Guard](https://github.com/sergiugogo/ISM-AIPhishingGuard)**: ML-based phishing detection that flags malicious emails and pages from real-world signals
 - **[Malicious Links Checker](https://github.com/sergiugogo/Malicious_links_checker)**: analyzes URLs and warns about unsafe links before you click
 - **[Multilingual RAG Assistant](https://github.com/sergiugogo/ISM-RAG)**: a retrieval-augmented assistant that answers across languages (vector DB + LLM pipeline)
 - **[MogosStat](https://github.com/sergiugogo/MogosStat)**: statistics tooling written in Rust
+- **Emergent** *(private, as contributor)*: 51 commits and reviewed PRs on a collaborative project — happy to talk about it
 
 ---
 
@@ -93,7 +88,7 @@ class Sergiu:
 <div align="center">
 
 <img height="165"
-     src="https://github-stats-extended.vercel.app/api?username=sergiugogo&show_icons=true&theme=tokyonight&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&cache_seconds=86400"
+     src="https://github-stats-extended.vercel.app/api?username=sergiugogo&show_icons=true&theme=tokyonight&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=86400"
      alt="Sergiu's GitHub stats" />
 <img height="165"
      src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiugogo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_seconds=86400"
